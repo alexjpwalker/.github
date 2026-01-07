@@ -1,8 +1,7 @@
 [![TypeDB](./banner.png)](https://typedb.com/)
 
 [![Discord](https://img.shields.io/discord/665254494820368395?color=7389D8&label=discord&logo=discord&logoColor=ffffff)](https://typedb.com/discord)
-[![Discussion Forum](https://img.shields.io/badge/discourse-forum-blue.svg)](https://forum.typedb.com)
-[![GitHub release](https://img.shields.io/github/release/vaticle/typedb.svg)](https://github.com/vaticle/typedb/releases/latest)
+[![GitHub release](https://img.shields.io/github/release/typedb/typedb.svg)](https://github.com/vaticle/typedb/releases/latest)
 
 
 <!-- PROJECT LOGO -->
@@ -28,8 +27,8 @@
 
 ### Getting started with TypeDB
 
-- [Download and install](https://typedb.com/docs/home/install/overview) TypeDB.
-- Explore TypeDB in our [Quickstart](https://typedb.com/docs/home/quickstart) and [Crash Course](https://typedb.com/docs/home/crash-course).
+- [Download and install](https://typedb.com/docs/home/install/) TypeDB.
+- Explore TypeDB in our [getting started guide](https://typedb.com/docs/home/get-started/) and [examples](https://typedb.com/docs/examples/).
 - Master TypeDB with [TypeDB Academy](https://typedb.com/docs/academy).
 - Discover more of TypeDB’s unique [Features](https://typedb.com/features).
-- Find in-depth articles and lectures in our [Learning Center](https://typedb.com/learn).
+- Join the community on [Discord](https://typedb.com/discord).
