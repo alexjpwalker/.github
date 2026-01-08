@@ -16,8 +16,6 @@
   <p align="center">
     <a href="https://typedb.com/docs"><strong>Documentation</strong></a>
     ·
-    <a href="https://forum.typedb.com/"><strong>Forum</strong></a>
-    ·
     <a href="https://typedb.com/discord"><strong>Discord Server</strong></a>
     ·
     <a href="https://github.com/typedb-osi"><strong>Community Projects</strong></a>
