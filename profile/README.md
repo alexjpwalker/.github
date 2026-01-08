@@ -20,7 +20,7 @@
     ·
     <a href="https://github.com/typedb-osi"><strong>Community Projects</strong></a>
   </p>
-    <h3 align="center"><a href="www.typedb.com">Visit typedb.com »</a></h3>
+    <h3 align="center"><a href="https://typedb.com">Visit typedb.com »</a></h3>
 </div>
 
 ### Getting started with TypeDB
